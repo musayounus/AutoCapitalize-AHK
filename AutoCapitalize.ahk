@@ -3,9 +3,6 @@
 ; - Capitalizes sentence starts (. ! ? followed by space)
 ; - Capitalizes first letter after focus moves to a new text field
 ; - Skips terminals, editors, and IDEs listed below
-;
-; Author: Musaa Mohammad Younus — github.com/musayounus/AutoCapitalize-AHK
-; License: MIT
 ; ============================================================
 
 #Requires AutoHotkey v2.0
