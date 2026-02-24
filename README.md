@@ -43,7 +43,7 @@
   ## Installation
 
   1. Install AutoHotkey v2.0 from [autohotkey.com](https://www.autohotkey.com)
-  2. Download `AutoCaps.ahk` from this repo
+  2. Download `AutoCapitalize.ahk` from this repo
   3. Double-click the file to run it - it will appear in your system tray
 
   **To start automatically with Windows:**
