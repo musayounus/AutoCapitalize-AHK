@@ -4,6 +4,8 @@
 
   Brings mobile-style auto-capitalization to your desktop. Works in Discord, WhatsApp Web, Slack, your browser, and other text fields, while staying out of the way in terminals, editors, and IDEs.
 
+  ![Demo](demo.gif)
+
   ---
 
   ## Features
