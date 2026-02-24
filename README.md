@@ -47,7 +47,7 @@
   3. Double-click the file to run it - it will appear in your system tray
 
   **To start automatically with Windows:**
-  Press `Win+R`, type `shell:startup`, and drop a shortcut to `AutoCaps.ahk` in that folder.
+  Press `Win+R`, type `shell:startup`, and drop a shortcut to `AutoCapitalize.ahk` in that folder.
 
   ---
 
