@@ -25,8 +25,7 @@
   |---|---|
   | **Terminals** | Windows Terminal, cmd, PowerShell, pwsh, ConEmu, Git Bash, Alacritty, Hyper, Fluent Terminal |
   | **Text Editors** | Notepad++, Sublime Text, Atom, gedit, Kate |
-  | **IDEs** | VS Code, Cursor, Windsurf, Zed, IntelliJ IDEA, PyCharm, WebStorm, CLion, GoLand, Rider, Visual Studio,
-  Eclipse, NetBeans, Android Studio |
+  | **IDEs** | VS Code, Cursor, Windsurf, Zed, IntelliJ IDEA, PyCharm, WebStorm, CLion, GoLand, Rider, Visual Studio, Eclipse, NetBeans, Android Studio |
 
   You can add any app by dropping its `.exe` name into the `ExcludedApps` list at the top of the script.
 
